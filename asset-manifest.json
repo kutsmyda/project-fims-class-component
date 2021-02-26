@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/project-fims-class-component/static/css/main.e6cdd39c.chunk.css",
+    "main.js": "/project-fims-class-component/static/js/main.4f611e87.chunk.js",
+    "main.js.map": "/project-fims-class-component/static/js/main.4f611e87.chunk.js.map",
+    "runtime-main.js": "/project-fims-class-component/static/js/runtime-main.65614208.js",
+    "runtime-main.js.map": "/project-fims-class-component/static/js/runtime-main.65614208.js.map",
+    "static/css/2.0a49d93f.chunk.css": "/project-fims-class-component/static/css/2.0a49d93f.chunk.css",
+    "static/js/2.e4d968e8.chunk.js": "/project-fims-class-component/static/js/2.e4d968e8.chunk.js",
+    "static/js/2.e4d968e8.chunk.js.map": "/project-fims-class-component/static/js/2.e4d968e8.chunk.js.map",
+    "static/js/3.456f7ff1.chunk.js": "/project-fims-class-component/static/js/3.456f7ff1.chunk.js",
+    "static/js/3.456f7ff1.chunk.js.map": "/project-fims-class-component/static/js/3.456f7ff1.chunk.js.map",
+    "index.html": "/project-fims-class-component/index.html",
+    "static/css/2.0a49d93f.chunk.css.map": "/project-fims-class-component/static/css/2.0a49d93f.chunk.css.map",
+    "static/css/main.e6cdd39c.chunk.css.map": "/project-fims-class-component/static/css/main.e6cdd39c.chunk.css.map",
+    "static/js/2.e4d968e8.chunk.js.LICENSE.txt": "/project-fims-class-component/static/js/2.e4d968e8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.65614208.js",
+    "static/css/2.0a49d93f.chunk.css",
+    "static/js/2.e4d968e8.chunk.js",
+    "static/css/main.e6cdd39c.chunk.css",
+    "static/js/main.4f611e87.chunk.js"
+  ]
+}
