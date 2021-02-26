@@ -14,7 +14,7 @@ class Main extends Component {
     }
 
     componentDidMount() {
-        fetch(`https://www.omdbapi.com/?apikey=516ce939&s=matrix`)
+        fetch(`https://www.omdbapi.com/?apikey=${API_KEY}&s=matrix`)
             .then(response => response.json())
             .then(data => this.setState({movies: data.Search, isLoading: false}))
             .catch((e)=>{console.error(e)
