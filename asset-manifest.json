@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/project-fims-class-component/static/css/main.e6cdd39c.chunk.css",
-    "main.js": "/project-fims-class-component/static/js/main.4f611e87.chunk.js",
-    "main.js.map": "/project-fims-class-component/static/js/main.4f611e87.chunk.js.map",
+    "main.js": "/project-fims-class-component/static/js/main.c769c243.chunk.js",
+    "main.js.map": "/project-fims-class-component/static/js/main.c769c243.chunk.js.map",
     "runtime-main.js": "/project-fims-class-component/static/js/runtime-main.65614208.js",
     "runtime-main.js.map": "/project-fims-class-component/static/js/runtime-main.65614208.js.map",
     "static/css/2.0a49d93f.chunk.css": "/project-fims-class-component/static/css/2.0a49d93f.chunk.css",
@@ -20,6 +20,6 @@
     "static/css/2.0a49d93f.chunk.css",
     "static/js/2.e4d968e8.chunk.js",
     "static/css/main.e6cdd39c.chunk.css",
-    "static/js/main.4f611e87.chunk.js"
+    "static/js/main.c769c243.chunk.js"
   ]
 }
