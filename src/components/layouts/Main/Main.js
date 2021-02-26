@@ -4,6 +4,7 @@ import Preloader from "../../Preloader/Preloader";
 import Search from "../../Search/Search";
 import styles from './Main.module.css'
 
+
 const API_KEY = process.env.REACT_APP_API_KEY
 
 class Main extends Component {
@@ -13,7 +14,7 @@ class Main extends Component {
     }
 
     componentDidMount() {
-        fetch(`https://www.omdbapi.com/?apikey=${API_KEY}&s=matrix`)
+        fetch(`https://www.omdbapi.com/?apikey=516ce939&s=matrix`)
             .then(response => response.json())
             .then(data => this.setState({movies: data.Search, isLoading: false}))
             .catch((e)=>{console.error(e)
