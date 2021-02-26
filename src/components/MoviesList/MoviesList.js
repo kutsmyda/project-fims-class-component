@@ -7,7 +7,7 @@ const MoviesList = (props)=>{
     console.log(movies)
     return (
         <div className={styles.movies}>
-            {movies.length ? movies.map(movie=> <MoviesItem key={movie.imdbID} {...movie}/>) : <h3>Page not found</h3>}
+            {movies.length ? movies.map(movie=> <MoviesItem key={movie.imdbID} {...movie}/>) : <h3>Page not found :( </h3>}
 
         </div>
 
